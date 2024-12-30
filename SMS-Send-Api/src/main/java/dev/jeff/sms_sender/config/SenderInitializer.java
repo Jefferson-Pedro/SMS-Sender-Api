@@ -10,6 +10,7 @@ public class SenderInitializer {
 
     public static Logger logger = Logger.getLogger(SenderInitializer.class.getName());
 
+    //Inicialização do provedor
     public SenderInitializer(TwilioConfg senderConfg){
         Twilio.init(senderConfg.getAccountSid(), senderConfg.getAuthToken());
 
