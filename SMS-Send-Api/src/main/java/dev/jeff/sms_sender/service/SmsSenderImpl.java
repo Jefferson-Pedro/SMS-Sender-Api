@@ -6,7 +6,7 @@ import dev.jeff.sms_sender.config.TwilioConfg;
 import dev.jeff.sms_sender.dto.SmsRequest;
 import org.springframework.stereotype.Service;
 
-@Service
+@Service("twilio")
 public class SmsSenderImpl implements ISmsSender{
 
     public final TwilioConfg twilioConfg;
