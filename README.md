@@ -66,7 +66,7 @@ Neste projeto foi utilizado o seguinte serviço neste projeto:
 	<li>Twilio</li>
 </ul>
 
-*Este projeto usou o Swagger para documentar sua API*.
+*Este projeto usou o Swagger v2.7.0 para documentar sua API*.
 
 ## Autor
 
