@@ -1,6 +1,6 @@
 # SMS-Sender-Api
 
-<p> Projeto para envio de SMS com Twilioa</p>
+<p> Projeto para envio de SMS com Twilio</p>
 
 ## Status do Projeto
 <p align="center"> 🏆 FINALIZADO 🏆</p>
