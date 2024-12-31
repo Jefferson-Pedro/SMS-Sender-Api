@@ -2,7 +2,7 @@
 
 <p> Projeto para envio de SMS com Twilioa</p>
 
-### Status do Projeto
+## Status do Projeto
 <p align="center"> 🏆 FINALIZADO 🏆</p>
 
 ### Features
@@ -37,9 +37,6 @@
 	<td>v11.23.3</td>
 </tr>
 <tr>
-	<td>H2</td>
-</tr>
-<tr>
 	<td>Git</td>
 	<td>2.**</td>
 </tr>
@@ -47,6 +44,7 @@
 
 
 <h6>** Visando facilitar a demostração da aplicação, recomendo utilizar apenas o Intellij **</h6>
+<h6>** Este projeto foi criado usando o H2: banco de dados em memória **</h6>
 
 No Terminal/Console:
 <ol>
@@ -62,11 +60,9 @@ Este projeto foi construido utilizando:
 <img align="center" alt="Icon-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
           
-
-Neste projeto foi utilizado os seguintes serviços neste projeto: 
+Neste projeto foi utilizado o seguinte serviço neste projeto: 
 <ul>
-	<li>Spring Mail</li>
-	<li>Spring AMQP para uso do serviço RabbitMQ</li>
+	<li>Twilio</li>
 </ul>
 
 ## Autor
@@ -76,7 +72,7 @@ Feito com 💙 por Jefferson Pedro 👋🏽 Entre em contato!
  <br />
 <a href="https://www.instagram.com/jefferson.pedro25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:jeffersonpedro05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jefferson-pedro-8a6264b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/jefferson-pedro-desenv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <hr>
 
