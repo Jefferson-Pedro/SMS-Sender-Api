@@ -35,11 +35,11 @@ public class SmsSenderController {
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<Sms> delete (@PathVariable Integer id){
+    public ResponseEntity<String> delete (@PathVariable Integer id){
 
         if (smsService.delete(id)){
-            return ResponseEntity.noContent().build();
+            return ResponseEntity.ok().body("Sms deletado com sucesso!");
         }
-        return ResponseEntity.internalServerError().build();
+        return ResponseEntity.internalServerError().body("Aconteceu um erro ao deletar o sms");
     }
 }
