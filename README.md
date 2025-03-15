@@ -22,10 +22,6 @@
 </tr>
 <tr>
 	<td>Java JDK</td>
-	<td>8+</td>
-</tr>
-<tr>
-	<td>Java</td>
 	<td>21</td>
 </tr>
 <tr>
